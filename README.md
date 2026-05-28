@@ -1,0 +1,2 @@
+# Monitor-Anal-tico-y-de-Fluctuaciones-de-Mercado-P2P
+Monitor analítico P2P desarrollado en Python y Streamlit. Automatiza la búsqueda de mejores ofertas de USDT en tiempo real, calcula el spread de ganancia y filtra anunciantes por reputación y capital real. Incluye base de datos SQLite para registrar fluctuaciones de precios en gráficas dinámicas de Plotly. Una solución FinTech ágil y resiliente.
